@@ -1,2 +1,0 @@
-# BigodStory
-em-andamento
