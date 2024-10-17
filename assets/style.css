@@ -220,24 +220,25 @@ main .logos {
     background-image: url(./img/sports.svg);
 }
 
-& texto {
-    
-     padding-top: 10px;
-     margin-bottom: 10px;
 
-}
 
-.best_seller {
-    display: flex;
+.seller {
     
 
-
-
-    & img {
-
-        width: 230px;
-        height: 220px;
+    & .texto h2 {
+        padding: 20px 96px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        padding-left: 96px;
+        right: 96px;
+        gap: 10px;
+        
     }
+
+    & .cards img {
+        
+    }
+
 
 
 }
